@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/OSTIP/elixir-ari.svg?branch=develop)](https://travis-ci.org/OSTIP/elixir-ari)
+[![Build Status](https://travis-ci.org/OSTIP/elixir-ari.svg?branch=dev)](https://travis-ci.org/OSTIP/elixir-ari)
 
 # Elixir-ARI
 
