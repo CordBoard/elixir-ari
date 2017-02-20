@@ -1,4 +1,4 @@
-[![Build Status](https://secure.travis-ci.org/benlangfeld/ariex.png?branch=develop)](http://travis-ci.org/benlangfeld/ariex)
+[![Build Status](https://travis-ci.org/OSTIP/elixir-ari.svg?branch=develop)](https://travis-ci.org/OSTIP/elixir-ari)
 
 # ARIex
 
