@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/OSTIP/elixir-ari.svg?branch=develop)](https://travis-ci.org/OSTIP/elixir-ari)
 
-# ARIex
+# Elixir-ARI
 
 A client library for Asterisk ARI in Elixir. (Forked from the inimitable Ben Langfeld)
 
