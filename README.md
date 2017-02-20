@@ -2,7 +2,7 @@
 
 # ARIex
 
-A client for Asterisk ARI in Elixir.
+A client library for Asterisk ARI in Elixir. (Forked from the inimitable Ben Langfeld)
 
 ## Installation
 
