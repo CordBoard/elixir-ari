@@ -47,10 +47,11 @@ iex(2)> flush()
 An Asterisk instance in Docker is provided. To boot, install docker-compose (http://docs.docker.com/compose/) and run `docker-compose up`.
 
 ## Links:
-* [Source](https://github.com/benlangfeld/ariex)
-* [Documentation](https://hex.pm/packages/ariex)
-* [Bug Tracker](https://github.com/benlangfeld/ariex/issues)
+* [Source](https://github.com/OSTIP/elixir-ari)
+* [Documentation](https://hex.pm/packages/elixir-ari)
+* [Bug Tracker](https://github.com/OSTIP/elixir-ari/issues)
 
 ## Copyright
 
-Copyright (c) 2015 Ben Langfeld. MIT licence (see LICENSE for details).
+ARIEX - Copyright (c) 2015 Ben Langfeld. MIT license (see LICENSE for details).
+Elixir-ARI - Copyright (c) 2017 CordBoard, OSTIP, Justin Zimmer. MIT license (see LICENSE for details).
